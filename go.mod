@@ -1,4 +1,4 @@
-module github.com/Ferluci/fast-realip
+module github.com/getevo/fasthttp-realip
 
 go 1.12
 
